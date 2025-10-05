@@ -1,0 +1,17 @@
+# Core scientific computing (Python 3.13 compatible)
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.10.0
+scikit-learn>=1.3.0
+
+# Gradient Boosted Trees
+xgboost>=2.0.0
+lightgbm>=4.0.0
+optuna>=3.6.0
+
+# CNN Light Curves (Python 3.13 compatible)
+tensorflow>=2.16.0
+
+# Utilities
+matplotlib>=3.7.0
+tqdm>=4.65.0
